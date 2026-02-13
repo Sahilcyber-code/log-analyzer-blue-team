@@ -1,0 +1,20 @@
+Feb 10 12:00:01 kali sshd[111]: Failed password for invalid user admin from 192.168.1.5 port 55234 ssh2
+Feb 10 12:00:10 kali sshd[112]: Failed password for invalid user test from 192.168.1.5 port 55235 ssh2
+Feb 10 12:00:20 kali sshd[113]: Failed password for invalid user root from 192.168.1.5 port 55236 ssh2
+Feb 10 12:00:30 kali sshd[114]: Failed password for invalid user user from 192.168.1.5 port 55237 ssh2
+Feb 10 12:00:40 kali sshd[115]: Failed password for invalid user guest from 192.168.1.5 port 55238 ssh2
+Feb 10 12:01:05 kali sshd[120]: Accepted password for wayne from 192.168.1.5 port 55250 ssh2
+Feb 10 12:05:01 kali sshd[201]: Failed password for invalid user admin from 203.0.113.50 port 45001 ssh2
+Feb 10 12:05:02 kali sshd[202]: Failed password for invalid user root from 203.0.113.50 port 45002 ssh2
+Feb 10 12:05:03 kali sshd[203]: Failed password for invalid user user from 203.0.113.50 port 45003 ssh2
+Feb 10 12:05:04 kali sshd[204]: Failed password for invalid user test from 203.0.113.50 port 45004 ssh2
+Feb 10 12:05:05 kali sshd[205]: Failed password for invalid user oracle from 203.0.113.50 port 45005 ssh2
+Feb 10 12:05:06 kali sshd[206]: Accepted publickey for admin from 203.0.113.50 port 45006 ssh2
+Feb 10 12:10:01 kali sshd[301]: Failed password for invalid user admin from 198.51.100.42 port 12345 ssh2
+Feb 10 12:10:02 kali sshd[302]: Failed password for invalid user admin from 198.51.100.42 port 12346 ssh2
+Feb 10 12:10:03 kali sshd[303]: Failed password for invalid user admin from 198.51.100.42 port 12347 ssh2
+Feb 10 12:10:04 kali sshd[304]: Failed password for invalid user admin from 198.51.100.42 port 12348 ssh2
+Feb 10 12:10:05 kali sshd[305]: Failed password for invalid user admin from 198.51.100.42 port 12349 ssh2
+Feb 10 12:10:06 kali sshd[306]: Failed password for invalid user admin from 198.51.100.42 port 12350 ssh2
+Feb 10 12:15:01 kali sshd[401]: Accepted password for john from 10.0.0.100 port 54321 ssh2
+Feb 10 12:15:02 kali sshd[402]: Accepted password for john from 10.0.0.100 port 54322 ssh2
